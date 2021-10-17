@@ -1,6 +1,6 @@
 # information-retrieval
-#boolean retrieval model
-#spelling correction
+# boolean retrieval model
+# spelling correction
 reference video : https://youtu.be/C22e34lUlBs
 
 this is project made on the topics : Boolean Retrieval and spelling correction from information retrieval 
