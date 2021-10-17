@@ -1,0 +1,29 @@
+.books-container{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.input-box{
+    width:50vw;
+}
+
+.search-button{
+    height:45px;
+}
+
+ul{
+    display: flex;
+      flex-wrap: wrap;
+      padding: 20px;
+
+}
+
+.correct-word{
+    color:rgb(69, 117, 189)
+}
+.span{
+    font-weight: bold;
+    color:white
+}

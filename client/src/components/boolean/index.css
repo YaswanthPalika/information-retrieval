@@ -1,0 +1,27 @@
+
+h1{
+    text-align: center;
+}
+.search{
+    margin: 20px;
+}
+.search-bar{
+    padding: 10px;
+    display:flex;
+    flex-direction:row ;
+}
+button{
+    margin-left: 10px;
+    border-radius: 10px;
+    width: 80px;
+}
+.input-box{
+    width: 50vw;
+    height: 30px;
+    border-radius: 10px;
+    padding:5px;
+}
+.output{
+    margin: 20px;
+
+}
